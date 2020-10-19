@@ -1,16 +1,16 @@
 # Zillow: What is driving the errors in the Zestimates®?
 
 ## About the Project
-For this project we will be using machine learning <b>clustering methodologies</b> to uncover what are the drivers of the errors found in Zillow's Zestimate® figures. 
+For this project we will be using machine learning clustering methodologies to uncover what are the drivers of the errors found in Zillow's Zestimate® figures. 
 
-What is a [Zestimate®](https://www.zillow.com/zestimate/#acc)? 
+<b>What is a [Zestimate®](https://www.zillow.com/zestimate/#acc)?</b> 
 - It is Zillow's estimate of a given home's market value. Public (MLS data and tax records) and property owner's submitted data are taken into account to make this estimation. 
 
-How accurate are Zillow Zestimates®? 
+<b>How accurate are Zillow Zestimates®?</b> 
 - According to [FreeStoneProperties](https://www.freestoneproperties.com/blog/truth-zillow-zestimates/#:~:text=Is%20a%20Zillow%20Zestimate%20High,about%20the%20accuracy%20of%20Zestimates.&text=For%20example%2C%20depending%20on%20the,only%2062%25%20of%20the%20time.),
 "The median error for larger markets is usually around 2% of the sale price of the home. But the problem with Zestimates is that when they are wrong, they can be significantly wrong. For example, depending on the metro area, Zillow might be within 5% of the sale price only 62% of the time."   
 
-What data was used in this project?
+<b>What data was used in this project?</b> 
 - The Zillow database for single unit/single family homes properties from 2017
 
 
