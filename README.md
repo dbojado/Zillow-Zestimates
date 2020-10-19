@@ -26,18 +26,16 @@ For this project we will be using machine learning clustering methodologies to u
 
 
 ## Data Dictionary
-| Feature                   | Definition                                                                                                                                                       | Type        |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| parcelid                  | Assigned by your local tax assessment office, unique for each property                                                                                           | discrete    |
-| calculatedfinishedsquarefeet                    | Square feet: length (ft.) x width (ft.)      | continuous  |  
-| bedroomcnt                   | Number of bedrooms in a unit      | discrete  |  
-| bathroomcnt                   | Number of bathrooms in a unit      | discrete  | 
-| taxvaluedollarcnt                   | Property taxes of unit for the year      | continuous  | 
-| fips                      | Federal Information Processing Standards (6037, 6059, 6111, or null) uniquely identify geographic areas                                                          | categorical |
-| latitude                  | Distance of a place north or south of the earth's equator                                                                                                        | continuous  |
-| longitude                 | Distance of a place east or west of the meridian                                                                                                                 | continuous  |
-| propertycountylandusecode | Land use zones are the codes that the government uses to classify  parcels of land (chars with numbers)                                                          | discrete    |
-| propertyzoningdesc        | Zoning refers to municipal or local laws or regulations that dictate  how real property can and cannot be used in certain geographic areas  (chars with numbers) | discrete    |
+| Feature | Definition |
+|---------------------------|--------------------------------------------------------------------------------------------------------------|
+| parcelid                       | Assigned by your local tax assessment office, unique for each property | 
+| calculatedfinishedsquarefeet   | Square feet: length (ft.) x width (ft.) |  
+| bedroomcnt                     | Number of bedrooms in a unit |  
+| bathroomcnt                    | Number of bathrooms in a unit | 
+| taxvaluedollarcnt              | Property taxes of unit for the year |
+| fips                           | Federal Information Processing Standards (6037, 6059, 6111, or null) uniquely identify geographic areas | 
+| latitude                       | Distance of a place north or south of the earth's equator |
+| longitude                      | Distance of a place east or west of the meridian |
 
 
 ## Initial Thoughts & Hypothesis
