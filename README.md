@@ -29,10 +29,12 @@ For this project we will be using machine learning clustering methodologies to u
 | Feature | Definition |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
 | parcelid                       | Assigned by your local tax assessment office, unique for each property | 
+| logerror                       | Discrepancy between actual sell price and listed sell price |  
 | calculatedfinishedsquarefeet   | Square feet: length (ft.) x width (ft.) |  
 | bedroomcnt                     | Number of bedrooms in a unit |  
 | bathroomcnt                    | Number of bathrooms in a unit | 
 | taxvaluedollarcnt              | Property taxes of unit for the year |
+| taxamount                      | Amount of tax due for the given year |  
 | fips                           | Federal Information Processing Standards (6037, 6059, 6111, or null) uniquely identify geographic areas | 
 | latitude                       | Distance of a place north or south of the earth's equator |
 | longitude                      | Distance of a place east or west of the meridian |
