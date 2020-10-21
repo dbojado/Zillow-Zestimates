@@ -74,12 +74,25 @@ Tax amount is the main cause of error in Zestimate
 
 
 ### Conclusion
-- Observations: 
-- Takeaways: 
+<b>Key Drivers of Log Error:</b>
+- Tax amount 
+- Bedroom count 
+- Calculated square footage
+
+<b>Takeaways:</b> 
+- There seems to be a normal distribution relationship between logerror and taxamount
+- As tax amount gets lower, log error increases
+- Homes with tax amount < 50,000 start to have more log error
+- As bedroom count increases, log error increases
+- Slightly more log error in homes with < 3000 sqft
+
+### Future Investigations
+- What is relationship between bedroom count and total home square footage?
+- Perform more K-means testing on more features 
 
 ## How to Reproduce
 All files are reproducible and available for download and use (need login credentials for access to Zillow company database).
-- [ ] Read this README.md
+- [x] Read this README.md
 - [ ] Download the aquire.py, prepare.py, and Final_Report.ipynb files
 
 ## Contact Me 
