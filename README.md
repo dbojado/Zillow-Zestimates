@@ -97,6 +97,6 @@ All files are reproducible and available for download and use (need login creden
 - [x] Read this README.md
 - [ ] Download the aquire.py, prepare.py, and Final_Report.ipynb files
 
-## Contact Me 
+## Contact Me  
 Dani Bojado
 - daniella.bojado@gmail.com 
